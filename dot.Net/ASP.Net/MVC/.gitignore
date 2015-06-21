@@ -1,0 +1,14 @@
+packages
+obj
+#App_Start
+#Controllers
+#Models
+#Properties
+#Helpers
+#Providers
+#Results
+#SampleGeneration
+*.cs
+*.csproj
+*.user
+*.map
